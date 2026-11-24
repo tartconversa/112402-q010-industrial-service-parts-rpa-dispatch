@@ -1,4 +1,4 @@
-"""Validate the delivered synthetic input files only."""
+"""检查合成资料列名和样例关联。"""
 import csv
 from pathlib import Path
 import unittest
