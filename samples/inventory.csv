@@ -1,0 +1,4 @@
+stock,partner,item,quantity,checked
+S1,D-1,BEAR-1,3,2026-10-07T09:00+08:00
+S2,D-2,BEAR-2,1,2026-10-07T09:05+08:00
+S3,D-1,CTRL-4,0,2026-10-07T09:00+08:00
