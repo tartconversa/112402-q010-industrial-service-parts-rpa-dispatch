@@ -1,0 +1,1 @@
+{"sources": [{"name": "inventory", "kind": "inventory", "path": "/workspace/samples/inventory.csv", "options": {}}, {"name": "catalog", "kind": "catalog", "path": "/workspace/tests/_tmp/missing.csv", "options": {}}, {"name": "tickets", "kind": "tickets", "path": "/workspace/samples/tickets.csv", "options": {}}]}

@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+_tmp/
+spare_service.db
+spare_service.db-*

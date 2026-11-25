@@ -1,0 +1,2 @@
+ticket,asset,model,part,firmware,fault,warranty,reservation,dispatch
+T7,A-77,P-4,BEAR-1,3.4,bearing,valid,held,queued

@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "name": "dealer-inventory",
+      "kind": "inventory",
+      "path": "inventory.csv",
+      "options": {
+        "source": "dealer_portal"
+      }
+    },
+    {
+      "name": "manufacturer-catalog",
+      "kind": "catalog",
+      "path": "compatibility.csv",
+      "options": {
+        "source": "manufacturer_catalog",
+        "complete": true
+      }
+    },
+    {
+      "name": "service-desk",
+      "kind": "tickets",
+      "path": "tickets.csv",
+      "options": {
+        "source": "service_desk"
+      }
+    }
+  ]
+}
